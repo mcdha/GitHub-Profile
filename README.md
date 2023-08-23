@@ -20,7 +20,16 @@ src="https://img.shields.io/github/followers/mcdha?logo=github&style=for-the-bad
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+              <i className="devicon-html5-plain colored"></i>
+              <i className="devicon-css3-plain colored"></i>
+              <i className="devicon-javascript-plain colored"></i>
+              <i className="devicon-bootstrap-plain colored"></i>
+              <i className="devicon-tailwindcss-plain colored"></i>
+              <i className="devicon-react-original colored"></i>
+              <i className="devicon-php-plain colored"></i>
+              <i className="devicon-laravel-plain colored"></i>
+              <i class="devicon-mysql-plain colored"></i>
+              <i className="devicon-firebase-plain colored"></i>
 </p>
 
 
