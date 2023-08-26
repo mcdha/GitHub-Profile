@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I\`m Computer Engineer
 ----------------------
 
-Hello! I am Mc. Dharnel Pagaragan, a proud graduate of AMA University with a degree in Computer Engineering, hailing from the beautiful region of Isabela. My unyielding passion lies in the realm of web development and software engineer, particularly in the capacity of a Full-stack Web Developer. My journey has been one of continuous growth, and at present, I am channeling my efforts into honing my front-end expertise.
+A proud graduate of AMA University with a degree in Computer Engineering, hailing from the beautiful region of Isabela. My unyielding passion lies in the realm of web development and software engineer, particularly in the capacity of a Full-stack Web Developer. My journey has been one of continuous growth, and at present, I am channeling my efforts into honing my front-end expertise.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [mcdharnelpagaragan@gmail.com](mailto:mcdharnelpagaragan@gmail.com)
